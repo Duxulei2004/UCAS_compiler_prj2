@@ -1,0 +1,7 @@
+/root/cact/build/CMakeFiles/rebuild_cache.dir
+/root/cact/build/CMakeFiles/compiler.dir
+/root/cact/build/CMakeFiles/antlr.dir
+/root/cact/build/CMakeFiles/acc_gen.dir
+/root/cact/build/CMakeFiles/edit_cache.dir
+/root/cact/build/CMakeFiles/omp_gen.dir
+/root/cact/build/CMakeFiles/intrinsics_gen.dir

@@ -1,0 +1,7 @@
+/home/compiler10/llvm-install/clang+llvm-11.1.0-x86_64-linux-gnu-ubuntu-16.04/bin/clang -c output.ll -o output.o
+/home/compiler10/llvm-install/clang+llvm-11.1.0-x86_64-linux-gnu-ubuntu-16.04/bin/clang output.o -L libcact_rt.a -lcact_rt -o program
+./program
+
+
+gcc -c cact_io.cpp -o cact_io.o         
+ar rcs libcact_rt.a cact_io.o

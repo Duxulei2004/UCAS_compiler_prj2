@@ -1,0 +1,12 @@
+const float EPS = 1e-6;
+const float HEX2 = 0x.AP-3;
+
+const int INT = -1;
+const float FACT = -33000.0;
+
+
+int main() {
+  print_int(INT);
+  print_float(FACT);
+  return 0;
+}

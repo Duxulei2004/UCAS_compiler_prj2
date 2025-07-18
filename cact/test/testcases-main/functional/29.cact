@@ -1,0 +1,6 @@
+
+const float FACT = -33000.0;
+
+int main() {
+  return 0;
+}
